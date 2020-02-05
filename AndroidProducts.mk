@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_tissot.mk
+    $(LOCAL_DIR)/bliss_tissot.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_tissot-user \
-    derp_tissot-userdebug \
-    derp_tissot-eng \
+    bliss_tissot-user \
+    bliss_tissot-userdebug \
+    bliss_tissot-eng \

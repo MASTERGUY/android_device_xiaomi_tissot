@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tissot.mk
+    $(LOCAL_DIR)/yaap_tissot.mk
+
+COMMON_LUNCH_CHOICES := \
+    yaap_tissot-user \
+    yaap_tissot-userdebug \
+    yaap_tissot-eng \

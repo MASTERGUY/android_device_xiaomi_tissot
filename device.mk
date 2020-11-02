@@ -103,10 +103,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_SOONG_NAMESPACES += \
     hardware/qcom-caf/msm8996
 
-# Touch HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.xiaomi_8953
-
 # Update engine
 PRODUCT_PACKAGES += \
     update_engine \
